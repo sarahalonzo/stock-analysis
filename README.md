@@ -27,39 +27,37 @@
         For 2017 run time was reduced by .3437475 seconds. 2018 refactored run time was reduced by .359375 seconds. Please see a comparison of the run time images from the macro below starting with refactored images as compared to the last two original run time images:
 
 
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/95314378/147019208-88bf82ce-d4b6-4bf3-8e3f-74562283cce5.png)
+
 Resources/VBA_Challenge_2017.png
 
 https://github.com/sarahalonzo/stock-analysis/blob/f6af6a6814765800f7aad337342cc9dcdecb43db/Resources/VBA_Challenge_2017.png
 
-![](VBA_Challenge_2017.png)
-
 
 ***VBA Challenge 2017***
+
+![image](https://user-images.githubusercontent.com/95314378/147019323-3161c553-b92a-45ea-a4fe-6cb44d46e505.png)
 
 Resources/VBA_Challenge_2018.png
 
 https://github.com/sarahalonzo/stock-analysis/blob/f6af6a6814765800f7aad337342cc9dcdecb43db/Resources/VBA_Challenge_2018.png
 
-
-![](VBA_Challenge_2018.png)
-
 ***VBA Challenge 2018***
+
+![greenstocks_challenge_ 2017](https://user-images.githubusercontent.com/95314378/147019375-5dae86b6-39cd-474d-901a-0886fb63ac72.png)
+
 
 Resources/greenstocks_challenge_ 2017.png
 
 https://github.com/sarahalonzo/stock-analysis/blob/f6af6a6814765800f7aad337342cc9dcdecb43db/Resources/greenstocks_challenge_%202017.png
 
-![](greenstocks_challenge_ 2017.png)
-
-
 ***green_stocks 2017 Original Code Run Time***
 
+![greenstocks_challenge_ 2018](https://user-images.githubusercontent.com/95314378/147019415-8bbdc7ba-e807-4fa9-bd0f-c6d0f553b3b5.png)
 
 Resources/greenstocks_challenge_ 2018.png
 
 https://github.com/sarahalonzo/stock-analysis/blob/f6af6a6814765800f7aad337342cc9dcdecb43db/Resources/greenstocks_challenge_%202018.png
-
-![](greenstocks_challenge_ 2018.png)
 
 ***green_stocks 2018 Original Code Run Time***
 
