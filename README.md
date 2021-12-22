@@ -1,7 +1,7 @@
 # **VBA Challenge for Stock Analysis** 
 
 ## **Overview of the Project and Purpose of the Analysis**
-
+       
         The VBA Challenge began with a data book of 12 stock tikers. Client Steve and his parents need to evaluate the performance of their stock and other portfolio stock total volumes and returns in order to make investment decisions.
 
         Through use of VBA coding in Excel the analyst can establish subconditionals that contain loops with conditionals and other arguments that produce efficiently accessed and formatted data showing the performance of all 12 stock tickers in 2017 v. 2018. The analyst has to use VBA coding in order to loop through all tickers for their total volume and returns.  Without VBA the tak of computing and formating the large data sets would be long and inefficient.
